@@ -1,0 +1,12 @@
+shape: (5, 5)
+┌───────┬────────────────┬───────────────────┬────────────────────┬────────┐
+│ state ┆ youngest       ┆ oldest            ┆ alphabetical_first ┆ gender │
+│ ---   ┆ ---            ┆ ---               ┆ ---                ┆ ---    │
+│ cat   ┆ str            ┆ str               ┆ str                ┆ cat    │
+╞═══════╪════════════════╪═══════════════════╪════════════════════╪════════╡
+│ DE    ┆ John Carney    ┆ Samuel White      ┆ Albert Polk        ┆ M      │
+│ VA    ┆ Scott Taylor   ┆ William Grayson   ┆ A. McEachin        ┆ M      │
+│ SC    ┆ Joe Cunningham ┆ Ralph Izard       ┆ Abraham Nott       ┆ M      │
+│ MD    ┆ Frank Kratovil ┆ Benjamin Contee   ┆ Albert Blakeney    ┆ M      │
+│ PA    ┆ Conor Lamb     ┆ Thomas Fitzsimons ┆ Aaron Kreider      ┆ M      │
+└───────┴────────────────┴───────────────────┴────────────────────┴────────┘

@@ -1,0 +1,12 @@
+shape: (5, 3)
+┌───────┬───────────────────────┬────────────────────┐
+│ state ┆ youngest              ┆ oldest             │
+│ ---   ┆ ---                   ┆ ---                │
+│ cat   ┆ str                   ┆ str                │
+╞═══════╪═══════════════════════╪════════════════════╡
+│ KY    ┆ Ben Chandler          ┆ John Edwards       │
+│ UT    ┆ Mia Love              ┆ John Bernhisel     │
+│ ID    ┆ Raúl Labrador         ┆ William Wallace    │
+│ WA    ┆ Jaime Herrera Beutler ┆ Columbia Lancaster │
+│ CT    ┆ Elizabeth Esty        ┆ Henry Edwards      │
+└───────┴───────────────────────┴────────────────────┘

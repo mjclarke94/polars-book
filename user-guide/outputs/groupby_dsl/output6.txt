@@ -1,0 +1,12 @@
+shape: (5, 4)
+┌───────┬──────────────────────┬───────────────────┬────────────────────┐
+│ state ┆ youngest             ┆ oldest            ┆ alphabetical_first │
+│ ---   ┆ ---                  ┆ ---               ┆ ---                │
+│ cat   ┆ str                  ┆ str               ┆ str                │
+╞═══════╪══════════════════════╪═══════════════════╪════════════════════╡
+│ DE    ┆ John Carney          ┆ Samuel White      ┆ Albert Polk        │
+│ NM    ┆ Xochitl Torres Small ┆ José Gallegos     ┆ Albert Fall        │
+│ ID    ┆ Raúl Labrador        ┆ William Wallace   ┆ Abe Goff           │
+│ UT    ┆ Mia Love             ┆ John Bernhisel    ┆ Allan Howe         │
+│ PA    ┆ Conor Lamb           ┆ Thomas Fitzsimons ┆ Aaron Kreider      │
+└───────┴──────────────────────┴───────────────────┴────────────────────┘
